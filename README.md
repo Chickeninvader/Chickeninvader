@@ -30,6 +30,9 @@ My journey began in Vietnam, where my love for technology first sparked. Now, ba
 
 **Let's chat!** I'm always open to discussions, collaborations, and feedback. Feel free to reach out!
 
+- Email: ngocbach@asu.edu
+- Linkedln: https://www.linkedin.com/in/ngoc-bach-khoa-vo-963a84256/
+
 **Oh, and did I mention I play a mean guitar? **
 
 <img src="[Path to your GIF image]" alt="side Image" align="right" width="460" height="auto" />
@@ -47,25 +50,24 @@ I decided to focus myself on feeding more knowledge:books: to my brain. I set a 
 ### Languages and Tools: <img src="[Path to a coding GIF]" width="30">
 
 <p>
-<a href="https://github.com/KhoaVoGitHub">
+<a href="https://github.com/Chickeninvader">
   <img width="460" height="auto" align="right" alt="Khoa's github stats" 
       src="https://github-readme-stats.vercel.app/api?username=KhoaVoGitHub&show_icons=true&theme=algolia&count_private=true&include_all_commits=true" />
 </a>
 <code><a href = "https://www.python.org/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python"></a></code>
 <code><a href = "https://www.mathworks.com/products/matlab.html"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/MATLAB_Logo.png/400px-MATLAB_Logo.png" alt="MATLAB"></a></code>
-<code><a href = "https://www.java.com/en/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java"></a></code>
-<code><a href = "https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"></a></code>
-<code><a href = "https://developer.mozilla.org/en-US/docs/Archive/CSS3"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS3"></a></code>
-<code><a href = "https://www.w3schools.com/cpp/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="C++"></a></code>
-<code><a href = "https://www.w3schools.com/c/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" alt="C"></a></code>
 
 <code><a href = "https://www.tensorflow.org/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/TensorFlowLogo.svg/480px-TensorFlowLogo.svg.png" alt="TensorFlow"></a></code>
 <code><a href = "https://keras.io/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/400px-Keras_logo.svg.png" alt="Keras"></a></code>
-<code><a href = "https://pytorch.org/"><img>
+<code><a href = "https://pytorch.org/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/PyTorch_logo.svg/320px-PyTorch_logo.svg.png" alt="PyTorch"></a></code>
+<code><a href = "https://opencv.org/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text.svg/400px-OpenCV_Logo_with_text.svg.png" alt="OpenCV"></a></code>
+<code><a href = "https://pandas.pydata.org/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/pandas/pandas.png" alt="Pandas"></a></code>
+<code><a href = "https://matplotlib.org/"><img height="40" src="https://matplotlib.org/_static/logo2_compressed.svg" alt="Matplotlib"></a></code>
+<code><a href = "https://www.ray.io/"><img height="40" src="https://raw.githubusercontent.com/ray-project/ray/master/doc/source/ray_overview/images/ray_header_logo.png" alt="Ray"></a></code>
 
 </p>
 
-<h4 align="center"> Thanks for Visiting!:innocent:</h4>
+<h4 align="center"> Thanks for Visiting!</h4>
 
 ### Credit to
 

@@ -43,7 +43,7 @@ My journey began in Vietnam, where my love for technology first sparked. Now, ba
 
 ### Challenges on board:
 
-I decided to focus myself on feeding more knowledge:books: to my brain. I set a couple of self-challenges in order to push myself more further.:running:
+I decided to focus myself on feeding more to my brain. I set a couple of self-challenges in order to push myself more further:
 
 - Reinforcement Learning: An Introduction (Richard S. Sutton and Andrew G. Barto)
 

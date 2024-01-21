@@ -32,10 +32,6 @@ My journey began in Vietnam, where my love for technology first sparked. Now, ba
 
 **Oh, and did I mention I play a mean guitar? **
 
-[![Google Playstore](https://img.shields.io/badge/-Joy_Apps-gray?style=flat&logo=Google-Play&logoColor=white)](https://play.google.com/store/apps/developer?id=Joy+Apps+Developers+Team&hl=en_IN)
-[![](https://komarev.com/ghpvc/?username=KhoaVoGitHub&style=flat)](https://github.com/KhoaVoGitHub)
-[![Github](https://img.shields.io/badge/-KhoaVoGitHub-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://github.com/KhoaVoGitHub)
-
 <img src="[Path to your GIF image]" alt="side Image" align="right" width="460" height="auto" />
 
 ### Things that I'm currently working on:
@@ -55,6 +51,18 @@ I decided to focus myself on feeding more knowledge:books: to my brain. I set a 
   <img width="460" height="auto" align="right" alt="Khoa's github stats" 
       src="https://github-readme-stats.vercel.app/api?username=KhoaVoGitHub&show_icons=true&theme=algolia&count_private=true&include_all_commits=true" />
 </a>
+<code><a href = "https://www.python.org/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python"></a></code>
+<code><a href = "https://www.mathworks.com/products/matlab.html"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/MATLAB_Logo.png/400px-MATLAB_Logo.png" alt="MATLAB"></a></code>
+<code><a href = "https://www.java.com/en/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java"></a></code>
+<code><a href = "https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"></a></code>
+<code><a href = "https://developer.mozilla.org/en-US/docs/Archive/CSS3"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS3"></a></code>
+<code><a href = "https://www.w3schools.com/cpp/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="C++"></a></code>
+<code><a href = "https://www.w3schools.com/c/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" alt="C"></a></code>
+
+<code><a href = "https://www.tensorflow.org/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/TensorFlowLogo.svg/480px-TensorFlowLogo.svg.png" alt="TensorFlow"></a></code>
+<code><a href = "https://keras.io/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/400px-Keras_logo.svg.png" alt="Keras"></a></code>
+<code><a href = "https://pytorch.org/"><img>
+
 </p>
 
 <h4 align="center"> Thanks for Visiting!:innocent:</h4>

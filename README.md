@@ -1,16 +1,31 @@
-### Hi there 👋
+** Hi there! I'm Khoa Vo, an AI and Computer Vision enthusiast on a mission to unlock the power of technology.**
 
-<!--
-**Chickeninvader/Chickeninvader** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ ** Currently exploring the depths of:**
 
-Here are some ideas to get you started:
+Fine-tuning Vision Transformers for multi-label image classification
+Experimenting with Logic Tensor Networks and metacognitive rules
+Fine-tuning Yolo-v3 and Yolo-v4 model
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ** Recent projects:**
+
+Multi-Label Image Classification with Vision Transformers (Link to LAB V2 project: [GitHub Link])
+Custom Face Detection Model using PyTorch
+
+** Toolkit **
+Python
+PyTorch, TensorFlow
+️OpenCV
+Pandas
+Beautiful Soup
+Hugging Face Transformers
+ ** Learning journey:**
+
+Arizona State University, Bachelor's in Computer Science (Expected 2026)
+ ** Connect with me: **
+
+Ask me about AI, Computer Vision, or anything tech-related!
+ngocbach@asu.edu
+
+ **Let's collaborate and build something awesome! **
+
+ ** Fun fact:** I used to play guitar.

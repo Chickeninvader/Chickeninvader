@@ -47,12 +47,12 @@ I decided to focus myself on feeding more knowledge:books: to my brain. I set a 
 
 - Reinforcement Learning: An Introduction (Richard S. Sutton and Andrew G. Barto)
 
-### Languages and Tools: <img src="[Path to a coding GIF]" width="30">
+### Languages and Tools:
 
 <p>
 <a href="https://github.com/Chickeninvader">
   <img width="460" height="auto" align="right" alt="Khoa's github stats" 
-      src="https://github-readme-stats.vercel.app/api?username=KhoaVoGitHub&show_icons=true&theme=algolia&count_private=true&include_all_commits=true" />
+      src="https://github-readme-stats.vercel.app/api?username=Chickeninvader&show_icons=true&theme=algolia&count_private=true&include_all_commits=true" />
 </a>
 <code><a href = "https://www.python.org/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python"></a></code>
 <code><a href = "https://www.mathworks.com/products/matlab.html"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/MATLAB_Logo.png/400px-MATLAB_Logo.png" alt="MATLAB"></a></code>

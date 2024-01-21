@@ -1,31 +1,61 @@
-** Hi there! I'm Khoa Vo, an AI and Computer Vision enthusiast on a mission to unlock the power of technology.**
+# Hey there! :wave::smiley:
 
- ** Currently exploring the depths of:**
+I'm Khoa Vo! I'm a student brimming with passion for Reinforcement Learning, even while diving into the fascinating world of Computer Vision.  (Fun fact: I'm also a mean guitar player! )
 
-Fine-tuning Vision Transformers for multi-label image classification
-Experimenting with Logic Tensor Networks and metacognitive rules
-Fine-tuning Yolo-v3 and Yolo-v4 model
+My journey began in Da Nang, Vietnam, where my love for technology first sparked. Now, based in Arizona, I'm an Undergraduate Assistant at LAB V2 at Arizona State University (ASU), actively contributing to cutting-edge projects and refining my skills.
 
- ** Recent projects:**
+**My current focus:**
 
-Multi-Label Image Classification with Vision Transformers (Link to LAB V2 project: [GitHub Link])
-Custom Face Detection Model using PyTorch
+* **Reinforcement Learning:** My true north, I'm eager to explore this field and unravel its potential to solve complex problems. 
+* **Computer Vision:** Currently engrossed in the world of images, I'm building custom models for tasks like face detection and recognition, utilizing frameworks like PyTorch and TensorFlow. 
+* **Multi-Label Image Classification:** At LAB V2, I'm fine-tuning Vision Transformer models to categorize images with multiple labels, contributing to exciting research. 
 
-** Toolkit **
-Python
-PyTorch, TensorFlow
-️OpenCV
-Pandas
-Beautiful Soup
-Hugging Face Transformers
- ** Learning journey:**
+**My skillset:**
 
-Arizona State University, Bachelor's in Computer Science (Expected 2026)
- ** Connect with me: **
+* **Programming Languages:** Python (PyTorch, TensorFlow)
+* **Data Science & Machine Learning:** Pandas, BeautifulSoup, Ray
+* **Deep Learning Architectures:** ResNet, EfficientNet, DenseNet
+* **Object Detection & Recognition:** YOLOv3, YOLOv4
+* **Logic Tensor Networks:** Experimenting with metacognitive rules
 
-Ask me about AI, Computer Vision, or anything tech-related!
-ngocbach@asu.edu
+**Check out my work:**
 
- **Let's collaborate and build something awesome! **
+* **Face Detection & Recognition Projects:** [Replace with link to your project]
+* **LAB V2 Projects:** Explore the exciting work happening at LAB V2 through their website: [Website Link Here] 
 
- ** Fun fact:** I used to play guitar.
+**Looking forward to:**
+
+* Connecting with like-minded individuals passionate about AI and technology. 
+* Collaborating on cool projects and pushing the boundaries of what's possible. 
+* Continuously learning and growing as a developer and researcher. 
+
+**Let's chat!** I'm always open to discussions, collaborations, and feedback. Feel free to reach out! 
+
+**Oh, and did I mention I play a mean guitar? ** 
+
+[![Google Playstore](https://img.shields.io/badge/-Joy_Apps-gray?style=flat&logo=Google-Play&logoColor=white)](https://play.google.com/store/apps/developer?id=Joy+Apps+Developers+Team&hl=en_IN)
+[![](https://komarev.com/ghpvc/?username=KhoaVoGitHub&style=flat)](https://github.com/KhoaVoGitHub)
+[![Github](https://img.shields.io/badge/-KhoaVoGitHub-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://github.com/KhoaVoGitHub)
+
+<img src="[Path to your GIF image]" alt="side Image" align="right" width="460" height="auto" />
+
+###  Things that I'm currently working on: 
+* [List your current projects]
+
+###  Challenges on board:
+I decided to focus myself on feeding more knowledge:books: to my brain. I set a couple of self-challenges in order to push myself more further.:running: 
+
+* [List your challenges]
+
+ ### Languages and Tools: <img src="[Path to a coding GIF]" width="30">
+<p>
+<a href="https://github.com/KhoaVoGitHub">
+  <img width="460" height="auto" align="right" alt="Khoa's github stats" 
+      src="https://github-readme-stats.vercel.app/api?username=KhoaVoGitHub&show_icons=true&theme=algolia&count_private=true&include_all_commits=true" />
+</a>
+</p>
+
+<h4 align="center"> Thanks for Visiting!:innocent:</h4>
+
+### Credit to 
+- [**GIPHY**](https://giphy.com/) and [Galshir](https://galshir.com/) for GIFs

@@ -1,21 +1,21 @@
 # Hey there! :wave::smiley:
 
-I'm Khoa Vo! I'm a student brimming with passion for Reinforcement Learning, even while diving into the fascinating world of Computer Vision. (Fun fact: I'm also a mean guitar player! )
+I'm Khoa Vo! I'm a student with passion for Reinforcement Learning, even while diving into the fascinating world of Computer Vision. (Fun fact: I'm also a mean guitar player! )
 
-My journey began in Vietnam, where my love for technology first sparked. Now, based in Arizona, I'm an Undergraduate Assistant at LAB V2 at Arizona State University (ASU), actively contributing to cutting-edge projects and refining my skills.
+My journey began in Vietnam, where my love for technology first sparked. Now, based in Arizona, I'm an pursuing Computer Science and Mathematics degree at Arizona State University (ASU), actively contributing to cutting-edge projects and refining my skills.
 
 **My current focus:**
 
 - **Reinforcement Learning:** My true north, I'm eager to explore this field and unravel its potential to solve complex problems.
-- **Computer Vision:** Currently engrossed in the world of images, I'm building custom models for tasks like face detection and recognition, utilizing frameworks like PyTorch and TensorFlow. At LAB V2, I'm fine-tuning Vision Transformer models to categorize images with multiple labels, contributing to exciting research.
+- **Computer Vision:** Currently engrossed in the world of images, I'm building custom models for tasks like face detection and recognition, utilizing frameworks like PyTorch and TensorFlow. At LAB V2, I'm fine-tuning Vision Transformer models to categorize images with multiple labels, contributing to exciting research. Currently, during an internship in Germany, I am building a binary classifier for critical scenario detection and generative model to reconstruct the accident in simulator.
 
 **My skillset:**
 
-- **Programming Languages:** Python (PyTorch, TensorFlow)
+- **Programming Languages:** Python (PyTorch, TensorFlow), MATLAB
 - **Data Science & Machine Learning:** Pandas, BeautifulSoup, Ray
-- **Deep Learning Architectures:** ResNet, EfficientNet, DenseNet
+- **Deep Learning Architectures:** ResNet, EfficientNet, DenseNet, Vision Transformers
 - **Object Detection & Recognition:** YOLOv3, YOLOv4
-- **Logic Tensor Networks:** Experimenting with neuro-symbolic
+- **Logic Tensor Networks:** Experimenting with neuro-symbolic AI
 
 **Check out my work:**
 
@@ -39,13 +39,8 @@ My journey began in Vietnam, where my love for technology first sparked. Now, ba
 
 ### Things that I'm currently working on:
 
-- Reinforcement Learning Agent on cartpole
-
-### Challenges on board:
-
-I decided to focus myself on feeding more to my brain. I set a couple of self-challenges in order to push myself more further:
-
-- Reinforcement Learning: An Introduction (Richard S. Sutton and Andrew G. Barto)
+- Binary model to classify accident scenario
+- Generative model for reconstructing the trajectory
 
 ### Languages and Tools:
 

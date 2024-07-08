@@ -45,12 +45,7 @@ My journey began in Vietnam, where my love for technology first sparked. Now, ba
 ### Languages and Tools:
 
 <p>
-<a href="https://github.com/Chickeninvader">
-  <img width="460" height="auto" align="right" alt="Khoa's github stats" 
-      src="https://github-readme-stats.vercel.app/api?username=Chickeninvader&show_icons=true&theme=algolia&count_private=true&include_all_commits=true" />
-</a>
 <code><a href = "https://www.python.org/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python"></a></code>
-<code><a href = "https://www.mathworks.com/products/matlab.html"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/MATLAB_Logo.png/400px-MATLAB_Logo.png" alt="MATLAB"></a></code>
 
 <code><a href = "https://www.tensorflow.org/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/TensorFlowLogo.svg/480px-TensorFlowLogo.svg.png" alt="TensorFlow"></a></code>
 <code><a href = "https://keras.io/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/400px-Keras_logo.svg.png" alt="Keras"></a></code>

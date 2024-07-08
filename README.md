@@ -7,7 +7,7 @@ My journey began in Vietnam, where my love for technology first sparked. Now, ba
 **My current focus:**
 
 - **Reinforcement Learning:** My true north, I'm eager to explore this field and unravel its potential to solve complex problems.
-- **Computer Vision:** Currently engrossed in the world of images, I'm building custom models for tasks like face detection and recognition, utilizing frameworks like PyTorch and TensorFlow. At LAB V2, I'm fine-tuning Vision Transformer models to categorize images with multiple labels, contributing to exciting research. Currently, during an internship in Germany, I am building a binary classifier for critical scenario detection and generative model to reconstruct the accident in simulator.
+- **Computer Vision:** Currently engrossed in the world of images, I'm building custom models for tasks like face detection and recognition, utilizing frameworks like PyTorch and TensorFlow. At LAB V2, I'm fine-tuning Vision Transformer models to categorize images with multiple labels and apply algorithm to detect error from model predictions based on explainable condition, contributing to exciting research. Currently, during an internship in Germany, I am building a binary classifier for critical scenario detection and generative model to reconstruct the accident in simulator.
 
 **My skillset:**
 

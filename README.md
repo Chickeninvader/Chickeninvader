@@ -19,7 +19,7 @@ My journey began in Vietnam, where my love for technology first sparked. Now, ba
 
 **Check out my work:**
 
-- **Face Detection & Recognition Projects:** https://github.com/Chickeninvader/image_recognition
+- **Face Detection & Recognition and (basic) Reinforcement Learning Projects:** https://github.com/Chickeninvader/machine_learning_project
 - **LAB V2 Projects:** Explore the exciting work happening at LAB V2 through their website: https://github.com/lab-v2/metacognitive_error_detection_and_correction_v2
 
 **Looking forward to:**

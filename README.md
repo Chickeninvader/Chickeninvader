@@ -1,26 +1,28 @@
 # Hey there! :wave::smiley:
 
-I'm Khoa Vo! I'm a student with passion for Reinforcement Learning, even while diving into the fascinating world of Computer Vision. (Fun fact: I'm also a mean guitar player! )
+I'm Khoa Vo! I'm a student with passion for Robotics, Autonomous System and AI (Fun fact: I'm also a mean guitar player! )
 
 My journey began in Vietnam, where my love for technology first sparked. Now, based in Arizona, I'm an pursuing Computer Science and Mathematics degree at Arizona State University (ASU), actively contributing to cutting-edge projects and refining my skills.
 
 **My current focus:**
 
+- **Computer Vision:** I'm building custom models for tasks like face detection and recognition, utilizing frameworks like PyTorch and TensorFlow. At LAB V2, I'm fine-tuning Vision Transformer models to categorize images with multiple labels and apply algorithm to detect error from model predictions based on explainable condition, contributing to exciting research. During an internship in Germany, I am building a binary classifier for critical scenario detection, and able to detect traffic accident with 0.7 F1
+- **Robotics and Control** Currently working on Duckiebot project, applying object detection and PID control to make the duckiebot run
 - **Reinforcement Learning:** My true north, I'm eager to explore this field and unravel its potential to solve complex problems.
-- **Computer Vision:** Currently engrossed in the world of images, I'm building custom models for tasks like face detection and recognition, utilizing frameworks like PyTorch and TensorFlow. At LAB V2, I'm fine-tuning Vision Transformer models to categorize images with multiple labels and apply algorithm to detect error from model predictions based on explainable condition, contributing to exciting research. Currently, during an internship in Germany, I am building a binary classifier for critical scenario detection and generative model to reconstruct the accident in simulator.
 
 **My skillset:**
 
-- **Programming Languages:** Python (PyTorch, TensorFlow), MATLAB
-- **Data Science & Machine Learning:** Pandas, BeautifulSoup, Ray
+- **Programming Languages and Tools:** Python, MATLAB, C++, R, Java, Shell script, Linux, ROS, Docker
+- **Data Science & Machine Learning & Robotics:** TensorFlow, Pytorch, OpenCV, Pandas, Matplotlib, Ray, Scikit-learn, Rospy
 - **Deep Learning Architectures:** ResNet, EfficientNet, DenseNet, Vision Transformers
-- **Object Detection & Recognition:** YOLOv3, YOLOv4
+- **Object Detection & Recognition:** YOLOv3, YOLOv4, YOLOv5
 - **Logic Tensor Networks:** Experimenting with neuro-symbolic AI
 
 **Check out my work:**
 
 - **Face Detection & Recognition and (basic) Reinforcement Learning Projects:** https://github.com/Chickeninvader/machine_learning_project
 - **LAB V2 Projects:** Explore the exciting work happening at LAB V2 through their website: https://github.com/lab-v2/metacognitive_error_detection_and_correction_v2
+- **Duckiebot project** First robot project that make the duckiebot autonomously run in the duckietown while adhere to traffic rules
 
 **Looking forward to:**
 
@@ -39,8 +41,7 @@ My journey began in Vietnam, where my love for technology first sparked. Now, ba
 
 ### Things that I'm currently working on:
 
-- Binary model to classify accident scenario
-- Generative model for reconstructing the trajectory
+- Learning from Demonstration for sim-2-real duckiebot project
 
 ### Languages and Tools:
 

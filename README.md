@@ -17,7 +17,7 @@ I am a Computer Science and Mathematics student at Arizona State University (ASU
 
 ### **Robotics and Control**
 - Contributing to the **Duckiebot** project using:
-  - **Object detection**, **PID control**, and **imitation learning**.
+  - **Object detection**, **PID control**
   - Implemented both simulation and real-world testing to follow traffic rules autonomously.
 
 ### **Reinforcement Learning**
@@ -52,8 +52,6 @@ I am a Computer Science and Mathematics student at Arizona State University (ASU
 - **[C.3]** Turnau J., Da L., **Vo K.**, et al.  
   _"Joint-Local Grounded Action Transformation for Sim-to-Real Transfer in Multi-Agent Traffic Control."_  
   In *RLC 2025*.  
-  [Download PDF](https://openreview.net/pdf?id=rlc-2025-jlgat)  
-  **Keywords**: Traffic Signal Control, Multi-Agent Reinforcement Learning, Sim-to-Real Transfer
 
 ---
 

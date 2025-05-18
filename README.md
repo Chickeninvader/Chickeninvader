@@ -57,7 +57,7 @@ I am a Computer Science and Mathematics student at Arizona State University (ASU
 
 ## 🔗 Explore My Work
 
-- **Face Recognition & RL Projects**: [GitHub Repo](https://github.com/Chickeninvader/machine_learning_project)  
+- **Traffic Accident Projects**: [GitHub Repo]([https://github.com/Chickeninvader/machine_learning_project](https://github.com/Chickeninvader/DAAD-RISE-Germany))  
 - **LAB V2 Research**: [Meta-Cognitive Error Detection](https://github.com/lab-v2/metacognitive_error_detection_and_correction_v2)  
 - **Duckiebot Autonomous Driving**: [Duckiebot Project](https://github.com/Chickeninvader/duckiebot_project)
 

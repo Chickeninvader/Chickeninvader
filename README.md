@@ -154,7 +154,7 @@ Y. Zhang, **K. Vo**, L. Da, T. Chen, X. Liu, H. Wei.
 ## 📧 Get in Touch
 
 📧 **ngocbach@asu.edu**  
-🔗 [LinkedIn](https://www.linkedin.com/in/ngoc-bach-khoa-vo-963a84256/)  
+🔗 [LinkedIn](https://www.linkedin.com/in/khoa-al-vo/)  
 💻 [GitHub](https://github.com/Chickeninvader)
 
 ---

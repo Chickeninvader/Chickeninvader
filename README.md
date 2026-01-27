@@ -9,6 +9,22 @@
 
 ## 🚀 Current Research & Projects
 
+<!-- Project Image -->
+<img src="assets/domain_expansion.png" align="right" width="200" height="200" style="object-fit: cover; border-radius: 8px; margin-left: 20px;">
+
+### **Domain Expansion: A Latent Space Construction Framework for Multi-Task Learning**
+> [Active Perception Group](https://github.com/Chickeninvader/domain)
+
+Proposed **Domain Expansion**, a representation learning framework that prevents *latent representation collapse* in multi-task learning by **structurally disentangling objectives in the latent space**.
+
+* Introduced **orthogonal pooling**, assigning each task to a mutually orthogonal latent subspace  
+* Prevented gradient interference **by design**, rather than via loss reweighting or gradient surgery  
+* Demonstrated **interpretable and compositional latent spaces** with algebraic concept manipulation  
+* Validated on **ShapeNet, MPIIGaze, and Rotated MNIST** across classification, pose, and gaze estimation  
+* **Accepted at ICLR 2026**
+
+<div style="clear: both;"></div>
+
 ---
 
 <!-- Duckiebot Image -->
@@ -27,7 +43,6 @@ Developed an end-to-end autonomous driving pipeline for the **Duckiebot** platfo
 <div style="clear: both;"></div>
 
 ---
-
 
 <!-- UGAT Image -->
 <img src="assets/cityflow.png" align="right" width="200" height="200" style="object-fit: cover; border-radius: 8px; margin-left: 20px;">
@@ -98,6 +113,14 @@ Created a MATLAB-based suite for **multi-object tracking**:
 
 ### **Conference Papers**
 
+**Chi-Yao Huang**, **Khoa Vo**, **Aayush Atul Verma**, Duo Lu, Yezhou Yang.  
+**Domain Expansion: A Latent Space Construction Framework for Multi-Task Learning.**  
+*International Conference on Learning Representations (ICLR), 2026.*  
+Accepted.  
+[Paper Link](https://openreview.net/forum?id=b95RCZQB29)
+
+---
+
 J. S. Kricheli, **K. Vo**, A. Datta, S. Ozgur, P. Shakarian.  
 **“Error Detection and Constraint Recovery in Hierarchical Multi-Label Classification without Prior Knowledge.”**  
 *Proceedings of the 33rd ACM International Conference on Information and Knowledge Management (CIKM), October 2024.*  
@@ -148,6 +171,7 @@ Y. Zhang, **K. Vo**, L. Da, T. Chen, X. Liu, H. Wei.
 * 🎓 New American University Scholarship — $7,250/semester  
 * 🌍 DAAD-RISE Grant (2024)  
 * 🔬 FURI Research Grant (2025)
+* 🧠 Computing Research Association (CRA) Undergraduate Research Award — Honorable Mention (2025–2026)
 
 ---
 
@@ -156,6 +180,7 @@ Y. Zhang, **K. Vo**, L. Da, T. Chen, X. Liu, H. Wei.
 📧 **ngocbach@asu.edu**  
 🔗 [LinkedIn](https://www.linkedin.com/in/khoa-al-vo/)  
 💻 [GitHub](https://github.com/Chickeninvader)
+[Google scholar](https://scholar.google.com/citations?user=o4tFLu0AAAAJ&hl=en&oi=ao)
 
 ---
 

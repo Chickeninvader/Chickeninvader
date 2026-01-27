@@ -115,17 +115,17 @@ Created a MATLAB-based suite for **multi-object tracking**:
 ### **Conference Papers**
 
 **Chi-Yao Huang**, **Khoa Vo**, **Aayush Atul Verma**, Duo Lu, Yezhou Yang.  
-**Domain Expansion: A Latent Space Construction Framework for Multi-Task Learning.**  
+**"Domain Expansion: A Latent Space Construction Framework for Multi-Task Learning."**  
 *International Conference on Learning Representations (ICLR), 2026.*  
 Accepted.  
 [Paper Link](https://openreview.net/forum?id=b95RCZQB29)
 
 ---
 
-J. S. Kricheli, **K. Vo**, A. Datta, S. Ozgur, P. Shakarian.  
-**“Error Detection and Constraint Recovery in Hierarchical Multi-Label Classification without Prior Knowledge.”**  
-*Proceedings of the 33rd ACM International Conference on Information and Knowledge Management (CIKM), October 2024.*  
-[Paper Link](https://arxiv.org/abs/2407.15192)
+Y. Zhang, **K. Vo**, L. Da, T. Chen, X. Liu, H. Wei.  
+**“Poster Abstract: Reproducible and Low-cost Sim-to-Real Environment for Traffic Signal Control.”**  
+*14th ACM/IEEE International Conference on Cyber-Physical Systems (ICCPS), April 2025.*  
+[Paper Link](https://doi.org/10.1145/3716550.3725161)
 
 ---
 
@@ -136,10 +136,10 @@ J. Turnau, L. Da, **K. Vo**, F. Al Rafi, S. Bachiraju, T. Chen, H. Wei.
 
 ---
 
-Y. Zhang, **K. Vo**, L. Da, T. Chen, X. Liu, H. Wei.  
-**“Poster Abstract: Reproducible and Low-cost Sim-to-Real Environment for Traffic Signal Control.”**  
-*14th ACM/IEEE International Conference on Cyber-Physical Systems (ICCPS), April 2025.*  
-[Paper Link](https://doi.org/10.1145/3716550.3725161)
+J. S. Kricheli, **K. Vo**, A. Datta, S. Ozgur, P. Shakarian.  
+**“Error Detection and Constraint Recovery in Hierarchical Multi-Label Classification without Prior Knowledge.”**  
+*Proceedings of the 33rd ACM International Conference on Information and Knowledge Management (CIKM), October 2024.*  
+[Paper Link](https://arxiv.org/abs/2407.15192)
 
 ---
 

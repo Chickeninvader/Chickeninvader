@@ -10,7 +10,7 @@
 ## 🚀 Current Research & Projects
 
 <!-- Project Image -->
-<img src="assets/domain_expansion.png" align="right" width="200" height="200" style="object-fit: cover; border-radius: 8px; margin-left: 20px;">
+<img src="domain.png" align="right" width="200" height="200" style="object-fit: cover; border-radius: 8px; margin-left: 20px;">
 
 ### **Domain Expansion: A Latent Space Construction Framework for Multi-Task Learning**
 > [Active Perception Group](https://github.com/Chickeninvader/domain)
@@ -54,7 +54,8 @@ Developed an end-to-end autonomous driving pipeline for the **Duckiebot** platfo
 Contributed to **uncertainty-aware** multi-agent RL for traffic signal control.
 
 * Implemented UGAT from **CDC 2023**  
-* Improved sim-to-real robustness with confidence calibration  
+* Improved sim-to-real robustness with confidence calibration
+* Accepted at **RLC 2025**
 
 <div style="clear: both;"></div>
 
@@ -180,7 +181,7 @@ Y. Zhang, **K. Vo**, L. Da, T. Chen, X. Liu, H. Wei.
 📧 **ngocbach@asu.edu**  
 🔗 [LinkedIn](https://www.linkedin.com/in/khoa-al-vo/)  
 💻 [GitHub](https://github.com/Chickeninvader)
-[Google scholar](https://scholar.google.com/citations?user=o4tFLu0AAAAJ&hl=en&oi=ao)
+📖 [Google scholar](https://scholar.google.com/citations?user=o4tFLu0AAAAJ&hl=en&oi=ao)
 
 ---
 

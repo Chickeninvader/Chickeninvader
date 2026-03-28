@@ -10,6 +10,22 @@
 ## 🚀 Current Research & Projects
 
 <!-- Project Image -->
+<img src="assets/cross_model_learning.png" align="right" width="200" height="200" style="object-fit: cover; border-radius: 8px; margin-left: 20px;">
+
+### **Cross-Model Learning-Based Robot Control**
+> A capstone project on transferring robot control “intention” across RLBench, scene graphs, and LeRobot policies.
+
+Built an end-to-end robot learning pipeline that converts RLBench data into structured scene-graph supervision, trains policies in LeRobot, and evaluates transfer across robot embodiments.
+
+* Developed an **RLBench → scene graph → LeRobot → training → evaluation** workflow
+* Added **variation-aware object mapping** and template-based scene-graph generation
+* Integrated **dataset conversion, upload, checkpoint transfer, and evaluation** scripts
+* Supported **EEF and joint-space policy training** with reproducible deployment on Sol/SLURM
+* Designed for **cross-model transfer** and controlled evaluation across robot setups
+
+<div style="clear: both;"></div>
+
+<!-- Project Image -->
 <img src="domain.png" align="right" width="200" height="200" style="object-fit: cover; border-radius: 8px; margin-left: 20px;">
 
 ### **Domain Expansion: A Latent Space Construction Framework for Multi-Task Learning**

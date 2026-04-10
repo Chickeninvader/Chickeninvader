@@ -27,7 +27,7 @@ Built an end-to-end robot learning pipeline that converts RLBench data into stru
 ---
 
 ### **Domain Expansion: A Latent Space Construction Framework for Multi-Task Learning**
-> [Active Perception Group](https://github.com/Chickeninvader/domain)
+> [Active Perception Group](https://github.com/huang-chiyao/DE)
 
 <img src="domain.png" align="right" width="150" height="150">
 

@@ -12,7 +12,7 @@
 ### **Cross-Model Learning-Based Robot Control**
 > [Capstone project](https://github.com/Chickeninvader/cross_model_learning_based_robot_control.git)
 
-<img src="assets/cross_model_learning.png" align="right" width="150" height="150">
+<img src="assets/capstone_project.png" align="right" width="150" height="150">
 
 Built an end-to-end robot learning pipeline that converts RLBench data into structured scene-graph supervision, trains policies in LeRobot, and evaluates transfer across robot embodiments.
 
